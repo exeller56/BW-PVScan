@@ -20,7 +20,9 @@ A high-performance, lightweight, and easy-to-use port & vulnerability scanner wr
 
 ```
 git clone https://github.com/exeller56/BW-PVScan.git
+
 cd BW-PVScan
+
 go run main.go
 ```
 
