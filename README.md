@@ -1,4 +1,4 @@
-![demo](./img/bwpscan.png)
+![demo](./img/bwpvscan.png)
 
 [![DISCORD SERVER](https://img.shields.io/discord/1151236517025546272?style=for-the-badge&logo=Discord&label=Discord
 )](https://discord.com/gNv3QtWrQ5)
