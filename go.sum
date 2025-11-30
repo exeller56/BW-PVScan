@@ -1,0 +1,12 @@
+github.com/apcera/termtables v0.0.0-20170405184538-bcbc5dc54055 h1:IkPAzP+QjchKXXFX6LCcpDKa89b/e/0gPCUbQGWtUUY=
+github.com/apcera/termtables v0.0.0-20170405184538-bcbc5dc54055/go.mod h1:8mHYHlOef9UC51cK1/WRvE/iQVM8O8QlYFa8eh8r5I8=
+github.com/clipperhouse/uax29/v2 v2.2.0 h1:ChwIKnQN3kcZteTXMgb1wztSgaU+ZemkgWdohwgs8tY=
+github.com/clipperhouse/uax29/v2 v2.2.0/go.mod h1:EFJ2TJMRUaplDxHKj1qAEhCtQPW2tJSwu5BF98AuoVM=
+github.com/mattn/go-runewidth v0.0.19 h1:v++JhqYnZuu5jSKrk9RbgF5v4CGUjqRfBm05byFGLdw=
+github.com/mattn/go-runewidth v0.0.19/go.mod h1:XBkDxAl56ILZc9knddidhrOlY5R/pDhgLpndooCuJAs=
+github.com/weppos/publicsuffix-go v0.50.1 h1:elrBHeSkS/eIb169+DnLrknqmdP4AjT0Q0tEdytz1Og=
+github.com/weppos/publicsuffix-go v0.50.1/go.mod h1:znn0JVXjcR5hpUl9pbEogwH6I710rA1AX0QQPT0bf+k=
+golang.org/x/net v0.47.0 h1:Mx+4dIFzqraBXUugkia1OOvlD6LemFo1ALMHjrXDOhY=
+golang.org/x/net v0.47.0/go.mod h1:/jNxtkgq5yWUGYkaZGqo27cfGZ1c5Nen03aYrrKpVRU=
+golang.org/x/text v0.31.0 h1:aC8ghyu4JhP8VojJ2lEHBnochRno1sgL6nEi9WGFGMM=
+golang.org/x/text v0.31.0/go.mod h1:tKRAlv61yKIjGGHX/4tP1LTbc13YSec1pxVEWXzfoeM=
