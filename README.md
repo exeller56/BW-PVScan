@@ -1,3 +1,8 @@
+![demo](./img/bwpscan.png)
+
+[![DISCORD SERVER](https://img.shields.io/discord/1151236517025546272?style=for-the-badge&logo=Discord&label=Discord
+)](https://discord.com/gNv3QtWrQ5)
+
 # 🚀 BW PVScan
 
 A high-performance, lightweight, and easy-to-use port & vulnerability scanner written in Go.
