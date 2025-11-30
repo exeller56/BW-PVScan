@@ -1,7 +1,7 @@
 ![demo](./img/bwpvscan.png)
 
-[![DISCORD SERVER](https://img.shields.io/discord/1151236517025546272?style=for-the-badge&logo=Discord&label=Discord
-)](https://discord.com/gNv3QtWrQ5)
+[![DISCORD SERVER](https://img.shields.io/discord/1317043344039215154?style=for-the-badge&logo=Discord&label=Discord
+)](https://discord.gg/gNv3QtWrQ5)
 
 # 🚀 BW PVScan
 
